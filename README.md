@@ -11,9 +11,9 @@ https://pclhome.minelmg.com/1.0.0
 其他两个地址也可以!<p>
 
 <h1>目前版本</h1>
-<h3>目前版本:<a href="/mineleng/PCLHOME_CL-HOME/blob/8e0060ede2fdac5287af5e3829c880b0c697f523/Custom.xaml" target="_blank" rel="noopener noreferrer">1.0.0</a></h3>
+<h3>目前版本:<a href="https://github.com/mineleng/PCLHOME_CL-HOME/blob/8e0060ede2fdac5287af5e3829c880b0c697f523/Custom.xaml" rel="noopener noreferrer">1.0.0</a></h3>
 <h3>版本列表:</h3>
-<a href="/mineleng/PCLHOME_CL-HOME/blob/8e0060ede2fdac5287af5e3829c880b0c697f523/1.0.0/Custom.xaml" target="_blank" rel="noopener noreferrer">1.0.0</a>
+<a href="/https://github.com/mineleng/PCLHOME_CL-HOME/blob/8e0060ede2fdac5287af5e3829c880b0c697f523/1.0.0/Custom.xaml" target="_blank" rel="noopener noreferrer">1.0.0</a>
 
 <h1>文件结构</h1>
 <p>PCLHOME-CL</p>
