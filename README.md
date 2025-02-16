@@ -13,9 +13,9 @@ https://pclhome.minelmg.com/1.0.0
 <p>本地使用:在<a href="https://github.com/mineleng/PCLHOME_CL-HOME/releases/" target="_blank" rel="noopener noreferrer">Releases</a>下载想要的版本，然后把文件解压到\PCL程序目录\PCL，然后在PCL2里，打开设置>个性化>主页，将其改为读取本地文件
 
 <h1>目前版本</h1>
-<h3>目前版本:<a href="https://github.com/mineleng/PCLHOME_CL-HOME/blob/8e0060ede2fdac5287af5e3829c880b0c697f523/Custom.xaml" rel="noopener noreferrer">1.0.0</a></h3>
+<h3>目前版本:<a href="https://github.com/mineleng/PCLHOME_CL-HOME/releases" rel="noopener noreferrer">1.0.0</a></h3>
 <h3>版本列表:</h3>
-<a href="/https://github.com/mineleng/PCLHOME_CL-HOME/blob/8e0060ede2fdac5287af5e3829c880b0c697f523/1.0.0/Custom.xaml" target="_blank" rel="noopener noreferrer">1.0.0</a>
+<a href="https://github.com/mineleng/PCLHOME_CL-HOME/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">1.0.0</a>
 
 <h1>文件结构</h1>
 <p>PCLHOME-CL</p>
