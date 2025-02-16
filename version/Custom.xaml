@@ -1,0 +1,27 @@
+<local:MyCard Margin="0,0,0,10">
+
+ <StackPanel Margin="5,5,5,5">
+
+  <local:MyTextButton Margin="0,5,0,5" HorizontalAlignment="Left"
+
+                    Text="【点击去设置主页】点击后，下滑找到主页，改成联网更新，粘贴在下面复制的链接" EventType="切换页面" EventData="3|1"/>
+
+ </StackPanel>
+
+</local:MyCard>
+
+
+
+<local:MyCard Title="可用版本（如果想用最新版，请使用PCL预设的CL主页）" CanSwap="True" IsSwaped="False" Margin="0,0,0,10">
+
+ <StackPanel Margin="14,14,14,10">
+
+  <local:MyListItem  Margin="-5,20,-5,0"
+
+                    Title="1.0.0" Info="【点击复制此版本主页链接】此版本是第一个版本"
+
+                    EventType="复制文本" EventData="https://pclhome.mineleng.com/1.0.0/" Type="Clickable" />
+
+ </StackPanel>
+
+</local:MyCard>
