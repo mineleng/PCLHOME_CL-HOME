@@ -10,7 +10,7 @@ https://pclhome.mcver.cn
 https://pclhome.minelmg.com/1.0.0
 其他两个地址也可以!<p>
 <p> </p>
-<p>本地使用:在Releases下载想要的版本，然后把文件解压到\PCL程序目录\PCL，然后在PCL2里，打开设置>个性化>主页，将其改为读取本地文件
+<p>本地使用:在<a href="https://github.com/mineleng/PCLHOME_CL-HOME/releases/" target="_blank" rel="noopener noreferrer">Releases</a>下载想要的版本，然后把文件解压到\PCL程序目录\PCL，然后在PCL2里，打开设置>个性化>主页，将其改为读取本地文件
 
 <h1>目前版本</h1>
 <h3>目前版本:<a href="https://github.com/mineleng/PCLHOME_CL-HOME/blob/8e0060ede2fdac5287af5e3829c880b0c697f523/Custom.xaml" rel="noopener noreferrer">1.0.0</a></h3>
