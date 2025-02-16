@@ -1,0 +1,57 @@
+<local:MyCard Title="你知道吗：{hint}" CanSwap="True" IsSwaped="False" Margin="0,0,0,15">
+
+    <TextBlock Margin="15,30,0,10"
+
+                    Text="回声洞：{cave}" />             
+
+</local:MyCard>
+
+
+
+<local:MyCard Title="启动" CanSwap="True" IsSwaped="False" Margin="0,0,0,15">
+
+    <StackPanel Margin="25,40,23,15">
+
+      <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+
+         <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+
+                    Text="启动基岩版" EventType="打开网页" EventData="minecraft://" />
+
+         <local:MyButton Margin="0,0,10,0" Width="170" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+
+                    Text="进入InCraftTime服务器" EventType="启动游戏" EventData="ICT 1.21-Fabric|mc.incrafttime.top" ToolTip="服务器IP:mc.incraft.top" />
+
+        </StackPanel>
+
+    </StackPanel>
+
+ </local:MyCard>
+
+
+
+<local:MyCard CanSwap="True" IsSwaped="False" Title="Minecraft网站" Margin="0,0,0,15">
+
+    <StackPanel Margin="25,40,23,15">
+
+     <local:MyListItem  Margin="-5,2,-5,8"
+
+                    Logo="https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/minecraft-creeper-face.jpg" Title="Minecraft官网" Info="Minecraft的官方网站"
+
+                    EventType="打开网页" EventData="https://www.minecraft.net/" Type="Clickable" />
+
+     <local:MyListItem  Margin="-5,2,-5,8"
+
+                    Logo="https://s21.ax1x.com/2025/02/12/pEud93j.png" Title="MineBBS我的世界中文论坛" Info="以Minecraft我的世界内容为主的中文论坛。面向我的世界玩家、服主、创作者，…"
+
+                    EventType="打开网页" EventData="https://www.minebbs.com/" Type="Clickable" />
+
+     <local:MyListItem  Margin="-5,2,-5,8"
+
+                    Logo="https://klpbbs.com/favicon.ico" Title="Minecraft苦力怕论坛" Info="最大的我的世界《Minecraft》基岩版（BE）中文资源、交流论坛之一。"
+
+                    EventType="打开网页" EventData="https://klpbbs.com/favicon.ico" Type="Clickable" />
+
+    </StackPanel>
+
+ </local:MyCard>
