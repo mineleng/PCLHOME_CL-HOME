@@ -19,10 +19,13 @@ https://pclhome.minelmg.com/1.0.0
 
 <h1>文件结构</h1>
 <p>PCLHOME-CL</p>
-<p> ├version</p>
-<p> ├404</p>
-<p> ├版本号文件夹</p>
-<p> └Custom.xaml</p>
+<p>  ├version</p>
+<p>  │ └Custom.xaml</p>
+<p>  ├404</p>
+<p>  │ └Custom.xaml</p>
+<p>  ├版本号文件夹</p>
+<p>  │ └Custom.xaml</p>
+<p>  └Custom.xaml</p>
 
 <h1>部署在自己的服务器</h1>
 <p>你需要在服务器中安装Nginx，添加一个网站，配置404错误跳转的页面重定向，并且把默认页面设置为Custom.xaml，具体如何安装Nginx和配置，请到哔哩哔哩或其他平台搜索，新手小白建议使用1Panel或者宝塔面板</p>
